@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #7c4c4c;
+    margin-left: -1%;
+    margin-right: -1%;
+    height: 40px;
+    margin-top: -20px;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.mainc {
+    margin-left: 500px;
+    margin-right: 500px;
+    border-color: black;
+    background-color: #fff;
+    text-align: center;
+}
